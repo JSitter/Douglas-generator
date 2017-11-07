@@ -1,0 +1,8 @@
+{
+    "name": "douglas-tweet",
+    "description": "Blah",
+    "image": "heroku/python",
+    "repostitory": "https://githubt.com/JSitter/Douglas-generator.git",
+    "environments": {
+    }
+}

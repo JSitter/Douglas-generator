@@ -1,0 +1,1 @@
+web: gunicorn stochastic_sample:app
