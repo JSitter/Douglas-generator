@@ -1,1 +1,1 @@
-web: gunicorn stochastic_sample:app
+web: gunicorn app:app
